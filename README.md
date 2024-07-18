@@ -1,3 +1,5 @@
 # Test
 This is my first git project
-authot --Jeff Dinis
+author --Jeff Dinis
+
+Hi Everyone, my name is Jeff Dinis
